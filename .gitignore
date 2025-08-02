@@ -1,0 +1,17 @@
+node_modules
+dist
+.env
+.env.local
+.env.production
+*.log
+.vscode/settings.json
+
+.*
+/*/
+
+!/.github/
+!/src/
+!/.editorconfig
+!/.eslintrc.json
+!/.gitignore
+!/.prettierrc.json
